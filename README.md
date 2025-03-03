@@ -6,9 +6,15 @@ below, but I removed them from this data set due to multicollinearity issues
 Cognitive Functions measured are as follows:
 
 EF = Executive Function
+
 MOTS = Motor Speed
+
 SIMATTN = Simple Attention
+
 COMATTN = Complex Attention
+
 WM = Working Memory
+
 PS = Processing Speed
+
 RT = Reaction Time
