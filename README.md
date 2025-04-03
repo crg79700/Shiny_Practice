@@ -1,1 +1,1 @@
-Each branch is a different Shiny App.  
+Each branch is a each different Shiny App.  
